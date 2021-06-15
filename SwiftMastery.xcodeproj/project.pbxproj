@@ -17,6 +17,19 @@
 		F0BECEA725E740A4004960D9 /* SwiftMasteryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECEA625E740A4004960D9 /* SwiftMasteryUITests.swift */; };
 		F0BECEB825E740C4004960D9 /* Range.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECEB725E740C4004960D9 /* Range.swift */; };
 		F0BECEBD25E77A11004960D9 /* Practicable.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECEBC25E77A11004960D9 /* Practicable.swift */; };
+		F0BECEC325E78278004960D9 /* NSObject+ClassName.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECEC225E78278004960D9 /* NSObject+ClassName.swift */; };
+		F0BECECB25E7838C004960D9 /* UITableView+Register.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECECA25E7838C004960D9 /* UITableView+Register.swift */; };
+		F0BECED025E79163004960D9 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECECF25E79163004960D9 /* BaseViewController.swift */; };
+		F0BECEDD25E791CB004960D9 /* HomePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECEDC25E791CB004960D9 /* HomePageViewController.swift */; };
+		F0BECEE525E793BB004960D9 /* BaseViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECEE425E793BB004960D9 /* BaseViewModel.swift */; };
+		F0BECEEA25E7A2EF004960D9 /* DICProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECEE925E7A2EF004960D9 /* DICProtocol.swift */; };
+		F0BECEEF25E7A3B4004960D9 /* DIC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECEEE25E7A3B4004960D9 /* DIC.swift */; };
+		F0BECEF425E7A5DC004960D9 /* HomePageViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECEF325E7A5DC004960D9 /* HomePageViewModel.swift */; };
+		F0BECEF925E7A613004960D9 /* ViewModelType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECEF825E7A613004960D9 /* ViewModelType.swift */; };
+		F0BECF0225E89A4B004960D9 /* BaseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECF0125E89A4B004960D9 /* BaseTableViewCell.swift */; };
+		F0BECF0B25E8D233004960D9 /* Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECF0A25E8D233004960D9 /* Function.swift */; };
+		F0BECF1025E8EDF6004960D9 /* FunctionCellVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECF0F25E8EDF6004960D9 /* FunctionCellVM.swift */; };
+		F0BECF1825E8EEDB004960D9 /* FuncTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BECF1725E8EEDB004960D9 /* FuncTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +66,19 @@
 		F0BECEA825E740A4004960D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F0BECEB725E740C4004960D9 /* Range.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Range.swift; sourceTree = "<group>"; };
 		F0BECEBC25E77A11004960D9 /* Practicable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Practicable.swift; sourceTree = "<group>"; };
+		F0BECEC225E78278004960D9 /* NSObject+ClassName.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSObject+ClassName.swift"; sourceTree = "<group>"; };
+		F0BECECA25E7838C004960D9 /* UITableView+Register.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITableView+Register.swift"; sourceTree = "<group>"; };
+		F0BECECF25E79163004960D9 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		F0BECEDC25E791CB004960D9 /* HomePageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageViewController.swift; sourceTree = "<group>"; };
+		F0BECEE425E793BB004960D9 /* BaseViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewModel.swift; sourceTree = "<group>"; };
+		F0BECEE925E7A2EF004960D9 /* DICProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DICProtocol.swift; sourceTree = "<group>"; };
+		F0BECEEE25E7A3B4004960D9 /* DIC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DIC.swift; sourceTree = "<group>"; };
+		F0BECEF325E7A5DC004960D9 /* HomePageViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageViewModel.swift; sourceTree = "<group>"; };
+		F0BECEF825E7A613004960D9 /* ViewModelType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelType.swift; sourceTree = "<group>"; };
+		F0BECF0125E89A4B004960D9 /* BaseTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseTableViewCell.swift; sourceTree = "<group>"; };
+		F0BECF0A25E8D233004960D9 /* Function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Function.swift; sourceTree = "<group>"; };
+		F0BECF0F25E8EDF6004960D9 /* FunctionCellVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionCellVM.swift; sourceTree = "<group>"; };
+		F0BECF1725E8EEDB004960D9 /* FuncTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuncTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,8 +136,13 @@
 				F0BECE8D25E740A4004960D9 /* Assets.xcassets */,
 				F0BECE8F25E740A4004960D9 /* LaunchScreen.storyboard */,
 				F0BECE9225E740A4004960D9 /* Info.plist */,
-				F0BECEB725E740C4004960D9 /* Range.swift */,
-				F0BECEBC25E77A11004960D9 /* Practicable.swift */,
+				F0BECF0625E89FCA004960D9 /* Functions */,
+				F0BECED425E7916B004960D9 /* Protocols */,
+				F0BECED825E79179004960D9 /* Base */,
+				F0BECEC125E7824F004960D9 /* Utils */,
+				F0BECEFD25E7A622004960D9 /* HomePage */,
+				F0BECEEE25E7A3B4004960D9 /* DIC.swift */,
+				F0BECF1C25E8EEE7004960D9 /* FunctionUI */,
 			);
 			path = SwiftMastery;
 			sourceTree = "<group>";
@@ -132,6 +163,62 @@
 				F0BECEA825E740A4004960D9 /* Info.plist */,
 			);
 			path = SwiftMasteryUITests;
+			sourceTree = "<group>";
+		};
+		F0BECEC125E7824F004960D9 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				F0BECEC225E78278004960D9 /* NSObject+ClassName.swift */,
+				F0BECECA25E7838C004960D9 /* UITableView+Register.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		F0BECED425E7916B004960D9 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				F0BECEBC25E77A11004960D9 /* Practicable.swift */,
+				F0BECEE925E7A2EF004960D9 /* DICProtocol.swift */,
+				F0BECEF825E7A613004960D9 /* ViewModelType.swift */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		F0BECED825E79179004960D9 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				F0BECECF25E79163004960D9 /* BaseViewController.swift */,
+				F0BECEE425E793BB004960D9 /* BaseViewModel.swift */,
+				F0BECF0125E89A4B004960D9 /* BaseTableViewCell.swift */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		F0BECEFD25E7A622004960D9 /* HomePage */ = {
+			isa = PBXGroup;
+			children = (
+				F0BECEDC25E791CB004960D9 /* HomePageViewController.swift */,
+				F0BECEF325E7A5DC004960D9 /* HomePageViewModel.swift */,
+			);
+			path = HomePage;
+			sourceTree = "<group>";
+		};
+		F0BECF0625E89FCA004960D9 /* Functions */ = {
+			isa = PBXGroup;
+			children = (
+				F0BECF0A25E8D233004960D9 /* Function.swift */,
+				F0BECEB725E740C4004960D9 /* Range.swift */,
+			);
+			path = Functions;
+			sourceTree = "<group>";
+		};
+		F0BECF1C25E8EEE7004960D9 /* FunctionUI */ = {
+			isa = PBXGroup;
+			children = (
+				F0BECF0F25E8EDF6004960D9 /* FunctionCellVM.swift */,
+				F0BECF1725E8EEDB004960D9 /* FuncTableViewCell.swift */,
+			);
+			path = FunctionUI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -264,11 +351,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0BECEEF25E7A3B4004960D9 /* DIC.swift in Sources */,
 				F0BECE8925E74098004960D9 /* ViewController.swift in Sources */,
+				F0BECEE525E793BB004960D9 /* BaseViewModel.swift in Sources */,
+				F0BECEC325E78278004960D9 /* NSObject+ClassName.swift in Sources */,
+				F0BECEF425E7A5DC004960D9 /* HomePageViewModel.swift in Sources */,
+				F0BECEDD25E791CB004960D9 /* HomePageViewController.swift in Sources */,
+				F0BECEF925E7A613004960D9 /* ViewModelType.swift in Sources */,
+				F0BECECB25E7838C004960D9 /* UITableView+Register.swift in Sources */,
+				F0BECF1025E8EDF6004960D9 /* FunctionCellVM.swift in Sources */,
 				F0BECEBD25E77A11004960D9 /* Practicable.swift in Sources */,
 				F0BECE8525E74098004960D9 /* AppDelegate.swift in Sources */,
+				F0BECED025E79163004960D9 /* BaseViewController.swift in Sources */,
+				F0BECEEA25E7A2EF004960D9 /* DICProtocol.swift in Sources */,
+				F0BECF1825E8EEDB004960D9 /* FuncTableViewCell.swift in Sources */,
 				F0BECE8725E74098004960D9 /* SceneDelegate.swift in Sources */,
+				F0BECF0225E89A4B004960D9 /* BaseTableViewCell.swift in Sources */,
 				F0BECEB825E740C4004960D9 /* Range.swift in Sources */,
+				F0BECF0B25E8D233004960D9 /* Function.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
